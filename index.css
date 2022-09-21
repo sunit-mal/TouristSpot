@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(#270000, #000000);
+}
+
+.logo {
+    color: white;
+    position: relative;
+    font-size: 80px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 3px 0px #002fff, 6px 0px #ffee00;
+}
+
+#name {
+    text-align: center;
+    color: #000000;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Baloo Bhai 2', cursive;
+    margin: 1px;
+    margin-bottom: 4px;
+    /* width: 50%; */
+}
+
+.name {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Baloo Bhai 2', cursive;
+    margin: 1px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar {
+    height: 40%;
+    background-image: url(https://www.hyderabadtourism.travel/images/popular/places-near-hyderabad/best-tourist-places-to-visit-near-hyderabad-header.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+form {
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+.navbar div {
+    position: relative;
+    width: 50%;
+    border: 2px solid red;
+    background-color: azure;
+    left: 30%;
+}
+
+#username {
+    position: relative;
+    text-align: center;
+    height: 50px;
+    left: 10%;
+    font-size: 20px;
+}
+
+#phone {
+    position: relative;
+    text-align: center;
+    height: 50px;
+    left: 15%;
+    font-size: 20px;
+}
+
+#select {
+    position: relative;
+    text-align: center;
+    height: 50px;
+    left: 20%;
+    font-size: 20px;
+}
+
+.option {
+    font-size: 18px;
+}
+
+#Button {
+    position: relative;
+    text-align: center;
+    height: 50px;
+    left: 25%;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.flight{
+    position: relative;
+    left: 50%;
+    color: aliceblue;
+    font-size: 40px;
+}
+.flight:hover{
+    position: relative;
+    left: 50%;
+    font-size: 44px;
+    color: #0088ff;
+    text-decoration: underline;
+}
+.Hotels{
+    position: relative;
+    left: 53%;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.Hotels:hover{
+    position: relative;
+    left: 53%;
+    font-size: 44px;
+    color: #0088ff;
+    text-decoration: underline;
+}
+.bus{
+    position: relative;
+    left: 56%;
+    color: aliceblue;
+    font-size: 40px;
+}
+.bus:hover{
+    position: relative;
+    left: 56%;
+    font-size: 44px;
+    color: #0088ff;
+    text-decoration: underline;
+}
+.train{
+    position: relative;
+    left: 59%;
+    color: aliceblue;
+    font-size: 40px;
+}
+.train:hover{
+    position: relative;
+    left: 59%;
+    font-size: 44px;
+    color: #0088ff;
+    text-decoration: underline;
+}
+.explor{
+    position: relative;
+    left: 62%;
+    color: aliceblue;
+    font-size: 40px;
+}
+.explor:hover{
+    position: relative;
+    left: 62%;
+    font-size: 44px;
+    color: #0088ff;
+    text-decoration: underline;
+}
